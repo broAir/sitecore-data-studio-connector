@@ -1,0 +1,27 @@
+﻿---
+ID: "abcd8653-16e5-4504-8fd1-d2a36a9fb0b5"
+Parent: "a9c17b31-0786-42fb-8e6d-96ca53b0bcb6"
+Template: "a9c17b31-0786-42fb-8e6d-96ca53b0bcb6"
+Path: /sitecore/templates/Data Studio Connector/Data Set/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171022T070747Z
+    - ID: "433a293c-e96d-40ad-89d2-0c60fa8011cc"
+      Hint: Max Keys Per Segment
+      Value: 5
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "90e6a862-254f-4e00-9156-e972485ce677"
+      Hint: Time Resolution
+      Value: weekly
+    - ID: "9c696426-341b-4dd5-a820-0620ab559b37"
+      Hint: Schema Type
+      Value: SCDSC.Schemas.ExperienceAnalyticsReportDataStudioSchema, Feature.GoogleDataStudioConnector

@@ -1,0 +1,23 @@
+﻿---
+ID: "7d437045-04c4-4286-9c46-10fc25867796"
+Parent: "fb7d9b5d-7847-41dd-921d-f00c85b11ee8"
+Template: "fb7d9b5d-7847-41dd-921d-f00c85b11ee8"
+Path: /sitecore/templates/Data Studio Connector/Data Studio Connector/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{A9C17B31-0786-42FB-8E6D-96CA53B0BCB6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171022T070712Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
