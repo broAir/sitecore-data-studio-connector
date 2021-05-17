@@ -11,6 +11,6 @@ I've taken down my site with instructions, but I have included the connector cod
 ## Usage
 
 1. Create the **Data Studio Connector** named item under the `/sitecore/system/marketing control panel/`
-2. Configure the API key, etc. 
+2. In the Data studio connector item - configure the API key, etc. 
 3. Add a dataset
-4. Use the datastudio script to view the data
+4. Use the datastudio script to view the data. You will need to provide the valid api URL and Key. Default API url is  `https://<yoursite>/dcapi/datastudio`
